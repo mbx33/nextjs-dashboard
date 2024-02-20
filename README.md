@@ -51,7 +51,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-- Inspiration
-- etc
-
-Please replace the placeholders with the actual values.
+- Vercel
